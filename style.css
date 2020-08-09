@@ -1,0 +1,98 @@
+
+header{
+    
+    width: 1440px;
+    height: 576px;
+    background-color: #F0FFF0;
+    padding: 50px 200px;
+}
+
+
+
+.navbar img{
+
+    height: 100%;
+    width: 200px;
+
+}
+
+.btn{
+    border-radius: 33px;
+    background-color: #21B573;
+    color: #fff;
+}
+.span-cl{
+    color: #21B573;
+}
+.red{
+    color: #f0331ad8;
+}
+.navbar-brand{
+
+    font-size: 16px;
+    color: red;
+    
+}
+.navbar-brand :hover{
+    color: brown;
+}
+
+
+.carousel-inner img{
+    width: 100%;
+}
+.carousel{
+    margin-top: 30px;
+    padding: 15px 25px;
+}
+.row{
+    padding: 50px 150px;
+}
+.box{
+    width: 270px;
+    height: 270px;
+    margin-left:20px;
+    background-color: #F0FFF0;
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 8px;
+}
+.box:hover{
+    background-color: #fff;
+    box-shadow: 5px 5px 8px gray;
+    
+    
+}
+
+.box img{
+    width: 80px;
+    height: 80px;
+}
+.oneline-courses{
+
+    padding: 50px 150px;
+
+}
+.card{
+
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px gray;
+}
+.card-footer{
+
+    border: none;
+}
+.calender{
+    position: absolute;
+    width: 18px;
+    height: 20px;
+    padding: 0 0;
+
+}
+.font-ft{
+    position:relative;
+    font-size: 16px;
+    line-height: 24px;
+    
+}
