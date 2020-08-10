@@ -5,7 +5,7 @@ header{
     height: 576px;
     background-color: #F0FFF0;
     padding: 50px 150px;
-    border: 1px solid red;
+    
 }
 
 
@@ -57,9 +57,8 @@ header{
 
     width: 1440px;
     height: 576px;
-    padding: 50px 130px;
-    border: 1px solid red;
-    
+     padding: 50px 130px;
+
 }
 .box{
     width: 270px;
@@ -83,12 +82,10 @@ header{
     height: 80px;
 }
 .oneline-courses{
-
+    
     width: 1440px;
     height: 630px;
     padding: 0 150px;
-    border: 1px solid red;
-
 }
 .card{
 
@@ -165,3 +162,47 @@ header{
     float:right;
     padding: 3px;
 }
+.testimonial{
+
+    width: 1440px;
+    height: 336px;
+    padding: 50px 250px;
+    
+
+}
+.tes-box {
+
+    padding:  50px 100px;
+}
+.tes-img{
+    width: 120px;
+    height: 120px;
+}
+
+.bold{
+
+    font-weight: bold;
+}
+footer{
+
+    width: 1440px;
+    height: 576px;
+    padding: 60px 150px;
+    color: white;
+    background-color: #131212;
+}
+.f-box{
+    width: 364px;
+    margin-right: 200px;
+    padding-top: 2em;
+}
+.f-b-1{
+
+    width: 123px;
+    padding: 0;
+
+}
+.box-all{
+    line-height: 2em;
+}
+
