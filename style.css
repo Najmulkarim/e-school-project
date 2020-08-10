@@ -4,7 +4,8 @@ header{
     width: 1440px;
     height: 576px;
     background-color: #F0FFF0;
-    padding: 50px 200px;
+    padding: 50px 150px;
+    border: 1px solid red;
 }
 
 
@@ -46,7 +47,19 @@ header{
     padding: 15px 25px;
 }
 .row{
-    padding: 50px 150px;
+    padding: 50px 0 ;
+    padding-right: 300px;
+    width: 1440px;
+
+}
+
+.new-row{
+
+    width: 1440px;
+    height: 576px;
+    padding: 50px 130px;
+    border: 1px solid red;
+    
 }
 .box{
     width: 270px;
@@ -56,6 +69,7 @@ header{
     text-align: center;
     padding-top: 30px;
     border-radius: 8px;
+    float: left;
 }
 .box:hover{
     background-color: #fff;
@@ -70,29 +84,84 @@ header{
 }
 .oneline-courses{
 
-    padding: 50px 150px;
+    width: 1440px;
+    height: 630px;
+    padding: 0 150px;
+    border: 1px solid red;
 
 }
 .card{
 
+    width: 370px;
+    height: 483px;
+
     border-radius: 10px;
     padding: 20px;
     box-shadow: 5px 5px 10px gray;
-}
-.card-footer{
 
+
+}
+
+.card .img-oc{
+    width: 331;
+    height: 234;
+}
+.card .h-oc{
+    width: 237px;
+    width: 36;
+
+}
+
+.card .p-oc{
+    width: 96px;
+    height: 24px;
+    
+}
+
+.card .b-oc{
+    width: 137px;
+    height: 35px;
+    
+}
+
+
+.card-footers{
+    margin-top: 100px;
     border: none;
+    padding: 35px 0;
 }
 .calender{
-    position: absolute;
-    width: 18px;
-    height: 20px;
-    padding: 0 0;
-
+    width: 24px;
+    height: 24px;
+    float: left;
 }
-.font-ft{
-    position:relative;
-    font-size: 16px;
-    line-height: 24px;
+
+.calender img{
+    width: 100%;
+    height: 100%;
     
+}
+.date{
+
+    width: 146px;
+    height: 24px;
+    float: left;
+    padding: 3px;
+}
+.people{
+    width: 20px;
+    height: 20px;
+    float: right;
+}
+.people img{
+    width: 100%;
+    height: 100%;
+    
+    
+}
+.seats{
+    width: 68px;
+    height: 24px;
+    float:right;
+    padding: 3px;
 }
